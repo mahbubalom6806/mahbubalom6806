@@ -1,6 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dipayan Sarkar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Alom
 ======================================================================================================================================
-<h4>A Full-Stack developer | MERN Stack</h4>
+<h4>A Full-Stack developer | prompt engineer</h4>
 
 - 🔭 I’m currently working on an AI Project
 - 🌱 I’m Interested to work on generative AI
